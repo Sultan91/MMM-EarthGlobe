@@ -9,3 +9,9 @@ Sample config :
 	 position:"right",
 	   },
 </code>
+
+
+
+
+
+Special  thanks to <a href="http://codepen.io/designil/pen/HGvcE">designil</a> for providing codepen example
